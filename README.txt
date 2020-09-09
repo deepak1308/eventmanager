@@ -14,4 +14,8 @@ This is simple event-manager program which uses multi-threading to perform follo
   
   output.txt - output of processing events and exit of event-manager with idle timeout
   
+  Dependency:
+  
+  pom.xml has dependency on Junit tests which are needed to run the tests in file TestEventManager.
+  
                    
