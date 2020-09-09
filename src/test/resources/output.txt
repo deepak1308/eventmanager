@@ -1,0 +1,76 @@
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+Following events are active:
+Event-id: 123
+Event-name: event1
+Following events are active:
+Event-id: 123
+Event-name: event1
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+Event already started
+Following events are active:
+Event-id: 123
+Event-name: event1
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+Event does not exist
+Following events are active:
+Event-id: 123
+Event-name: event1
+Following events are active:
+Event-id: 123
+Event-name: event1
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+No active events
+No active events
+No active events
+No active events
+Enter event in format <0/1 even-type start/end> <ipAddress> <machineName>
+Exit timeout: event manager has been idle without any activity for specified time
