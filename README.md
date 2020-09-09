@@ -10,7 +10,7 @@ This is simple event-manager program which uses multi-threading to perform follo
   
   TestEventManager - It create event-manager object and start the event-manager which runs until idle timeout.
   
-  input.txt - sample input for events in format <0/1 even-type start/end> <ipAddress> <machineName>
+  input.txt - sample input for events in format "<0/1 even-type start/end> <ipAddress> <machineName>"
   
   output.txt - output of processing events and exit of event-manager with idle timeout
   
