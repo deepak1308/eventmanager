@@ -18,4 +18,10 @@ This is simple event-manager program which uses multi-threading to perform follo
   
   pom.xml has dependency on Junit tests which are needed to run the tests in file TestEventManager.
   
+  To run the same input:
+  
+    1. Import this as maven project in Eclipse or IntelliJ.
+    2. Right click on pom.xml and run it as "Maven Test" which will run the above sample input file.
+    3. The logs and output will be available in above output file.
+  
                    
